@@ -1,3 +1,3 @@
 # test_nick_abdu
-Hello
+Hello! Git is very cool
 To test git terminal commands
